@@ -1,12 +1,8 @@
-# hqOsu
-
-WIP osu! haxxx ( ͡º ͜ʖ ͡º)
-
-Latest builds can be found [here](https://github.com/hq-af/hqOsu/releases)
+# hqOsu-xtreme
 
 Important :
-
 - Only works on osu!stable latest version
+- This is unofficial version of hqOsu, cheat won't be updated. Only client compatibility will.
+- This client is blocked on Ainu, you will crash if you used them there.
 
-
-Don't use on bancho
+Made by hq.af and unofficial fork by Aoba (Hazuki-san)
