@@ -1,5 +1,7 @@
 # hqOsu-xtreme
 
+!!! OPEN ISSUES HERE https://github.com/Hazuki-san/hqOsu-xtreme-issues/issues !!!
+
 Important :
 - Only works on osu!stable latest version
 - This is unofficial version of hqOsu, cheat won't be updated. Only client compatibility will.
