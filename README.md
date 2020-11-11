@@ -5,4 +5,7 @@ Important :
 - This is unofficial version of hqOsu, cheat won't be updated. Only client compatibility will.
 - This client is blocked on Ainu, you will crash if you used them there.
 
+Extra Addons :
+- Incognito Mode, hides your indenity from DiscordRPC and live streams.
+
 Made by hq.af and unofficial fork by Aoba (Hazuki-san)
