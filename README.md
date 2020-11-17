@@ -7,5 +7,6 @@ Important :
 
 Extra Addons :
 - Incognito Mode, hides your indenity from DiscordRPC and live streams.
+- Free osu!Direct, ~~too poor~~ lazy to download on web-browser? I got you covered.
 
 Made by hq.af and unofficial fork by Aoba (Hazuki-san)
