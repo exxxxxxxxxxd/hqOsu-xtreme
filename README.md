@@ -1,5 +1,8 @@
 # hqOsu-xtreme
 
+### END OF SUPPORT!!!
+I won't update this thing anymore because there's SOMEONE literally cheating on my own server, remember... this is just my little project so I can stop it anytime I wanted to.
+
 Important :
 - Only works on osu!stable latest version
 - This is unofficial version of hqOsu, cheat won't be updated. Only client compatibility will.
