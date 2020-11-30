@@ -1,5 +1,7 @@
 # hqOsu-xtreme
 
+THIS IS EXPERIMENTAL BRANCH! STUFF MIGHT NOT BE COMPLETE OR STABLE! PLEASE USE IT WITH YOUR OWN RISK! I'VE WARNED YOU!
+
 Important :
 - Only works on osu!stable latest version
 - This is unofficial version of hqOsu, cheat won't be updated. Only client compatibility will.
